@@ -12,7 +12,7 @@
 
 ### Boards
 
-The Board.txt defines the Arduino version for the **AT90USB1286** at **8 Mhz** wich is temporary called **leonardoAT90**.
+The Board.txt defines the Arduino version for the **AT90USB1286** at **8 Mhz** which is temporary called **leonardoAT90**.
 
 ### Pins
 
